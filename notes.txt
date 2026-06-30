@@ -1,0 +1,11 @@
+CyberLab
+
+Date: 06-29-2026
+First native Ubuntu Installation.
+
+Things I learned:
+- Installed Ubuntu 26.04 in dual bot.
+- Enabled UFW firewall.
+- Installed Vs Code.
+-Learned to use the itegrated terminal.
+- Created my CyberLab worksapce.
